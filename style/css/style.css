@@ -1,24 +1,15 @@
-
-    .header{
-        text-align: right;
-        font-size: 15px;
-        margin-right: 120px;
-        margin-top: 25px;
-     }
     .app-logo{
-        display: inline-block;
-        position: absolute;
-        margin-left: 15px;
-        margin-top: -3px;
+        display: block;
+        margin-left: 1270px;
+        margin-top: -20px;
         width: 25px;
         height:25px;
         cursor: pointer;
      } 
-     .id-logo{
-        display: inline-block;
-        position: absolute;
-        margin-left: 55px;
-        margin-top: -10px;
+    .id-logo{
+        display: block;
+        margin-left: 1300px;
+        margin-top: -31px;
         width: 40px;
         height:40px;
         cursor: pointer;
@@ -61,8 +52,8 @@
         width: 500px;
         height: 15px;
      }  
-     .search-logo{
-        display: inline-block;
+    .search-logo{
+        display: block;
         position: absolute;
         overflow: hidden;
         margin-left: 420px;
@@ -70,8 +61,8 @@
         width: 15px;
         height:15px;
      }   
-     .voice-logo{
-        display: inline-block;
+    .voice-logo{
+        display: block;
         position: absolute;
         overflow: hidden;
         margin-left: 910px;
@@ -79,14 +70,14 @@
         width: 15px;
         height:20px;
      } 
-     .paragraph{
+    .paragraph{
         text-align: center;
         font-size: 13px;
         font-family: arial;
         margin-top: 30px;
 
      } 
-     .language{
+    .language{
         text-align: center;
         font-size: 13px;
         font-family: arial;
@@ -94,26 +85,24 @@
         margin-left: 140px;
 
      } 
-     .footer{
+    .footer{
         position: fixed;
-        left: 0px;
-        bottom:0px;
+        padding-top: 4px;
+        padding-left: 18px;
+        margin-top: 160px;
         width: 100%;
-        padding-bottom: 35px;
-        padding-top: 10px;
-        padding-left: 20px;
-         background-color: #F0F0F0 ;
-         color: #787878;
-         border-top:solid #B8B8B8;
-         border-width: 1px;
+        background-color: #F0F0F0 ;
+        color: #787878;
+        border-top:solid #B8B8B8;
+        border-width: 1px;
      } 
-     .lineFooter{
+    .lineFooter{
          position: fixed;
         left: 0px;
         bottom:0px;
         width: 100%;
         padding-top: 8px;
-        padding-bottom: 15px;
+        padding-bottom: 10px;
         padding-left: 20px;
         color: #787878;
          border-top:solid #B8B8B8;
